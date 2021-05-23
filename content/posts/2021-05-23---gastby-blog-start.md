@@ -9,7 +9,7 @@ tags:
   - "Gatsby"
   - "blog"
 description: "2代目gatsby blog設立"
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/thsgw2020-aboutme-logo.jpg"
 ---
 
 日々のナレッジの共有や忘れ書きのために、二代目gatsby blogを設立しました。
