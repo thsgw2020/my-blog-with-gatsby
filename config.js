@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://thsgw2020.net/',
   pathPrefix: '/',
   title: 'thsgw2020 Blog',
   subtitle: 'Cloud & Automation',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
