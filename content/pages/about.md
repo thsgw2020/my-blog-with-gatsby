@@ -26,7 +26,7 @@ socialImage: "/media/thsgw2020-aboutme-logo.jpg"
 
 ## BUILD STATUS (netlify)
 
-coming soon !!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a181a09-f898-45da-baa0-a7fc83b4a658/deploy-status)](https://app.netlify.com/sites/competent-haibt-2a30fc/deploys)
 ## 資格
 
 - 応用情報
